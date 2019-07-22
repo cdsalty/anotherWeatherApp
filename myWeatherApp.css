@@ -1,0 +1,12 @@
+.styled {
+    border-radius: 10%;
+    background-color: lightskyblue;
+}
+
+.changed-style {
+    border-radius: 8%;
+    color: darkblue;
+    border-color: darkblue;
+
+}
+
